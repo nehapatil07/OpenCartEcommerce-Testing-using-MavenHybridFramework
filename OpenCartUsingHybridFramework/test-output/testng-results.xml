@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="8891" started-at="2021-08-08T16:35:43Z" finished-at="2021-08-08T16:35:52Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="8891" started-at="2021-08-08T16:35:43Z" finished-at="2021-08-08T16:35:52Z">
+      <class name="com.tests.LoginpageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.tests.LoginpageTest@6b09bb57]" name="setup" is-config="true" duration-ms="6360" started-at="2021-08-08T16:35:36Z" finished-at="2021-08-08T16:35:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyLoginbtn()[pri:0, instance:com.tests.LoginpageTest@6b09bb57]" name="verifyLoginbtn" duration-ms="1586" started-at="2021-08-08T16:35:43Z" finished-at="2021-08-08T16:35:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginbtn -->
+        <test-method status="PASS" signature="VerifyValidLogin()[pri:1, instance:com.tests.LoginpageTest@6b09bb57]" name="VerifyValidLogin" duration-ms="7277" started-at="2021-08-08T16:35:44Z" finished-at="2021-08-08T16:35:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyValidLogin -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.tests.LoginpageTest@6b09bb57]" name="teardown" is-config="true" duration-ms="46" started-at="2021-08-08T16:35:52Z" finished-at="2021-08-08T16:35:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.tests.LoginpageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

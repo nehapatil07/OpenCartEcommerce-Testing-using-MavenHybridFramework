@@ -1,0 +1,269 @@
+2021-08-07 15:09:20,678  INFO [main] Baseclass:13 - Data is being entered
+2021-08-07 15:09:38,098  INFO [main] Baseclass:13 - Data is being entered
+2021-08-07 15:17:35,815  INFO [main] Baseclass:17 - Data is being entered
+2021-08-07 15:17:35,818  INFO [main] Baseclass:28 - initializing....
+2021-08-07 15:17:35,819  INFO [main] Baseclass:17 - Data is being entered
+2021-08-07 15:17:35,819  INFO [main] Baseclass:30 - user wants to automate with chrome browser
+2021-08-07 15:18:38,856  INFO [main] Baseclass:17 - Data is being entered
+2021-08-07 15:18:38,860  INFO [main] Baseclass:28 - initializing....
+2021-08-07 15:18:38,860  INFO [main] Baseclass:17 - Data is being entered
+2021-08-07 15:18:38,860  INFO [main] Baseclass:30 - user wants to automate with chrome browser
+2021-08-07 15:18:45,031  INFO [main] Baseclass:40 - browser is initialized
+2021-08-07 15:44:19,809  INFO [main] Baseclass:22 - Data is being entered
+2021-08-07 15:44:19,813  INFO [main] Baseclass:33 - initializing....
+2021-08-07 15:44:19,813  INFO [main] Baseclass:22 - Data is being entered
+2021-08-07 15:44:19,814  INFO [main] Baseclass:35 - user wants to automate with chrome browser
+2021-08-07 15:44:27,627  INFO [main] Baseclass:45 - browser is initialized
+2021-08-07 15:44:32,848  INFO [main] Baseclass:54 - method failed...taking screenshot
+2021-08-07 15:44:33,393  INFO [main] Baseclass:63 - screenshot taken and saved in MySreenshot folder
+2021-08-07 16:29:20,162  INFO [main] Baseclass:33 - initializing....
+2021-08-07 16:29:20,164  INFO [main] Baseclass:22 - Data is being entered
+2021-08-07 16:29:20,165  INFO [main] Baseclass:35 - user wants to automate with chrome browser
+2021-08-07 16:29:29,300  INFO [main] Baseclass:45 - browser is initialized
+2021-08-07 16:30:40,514  INFO [main] Baseclass:33 - initializing....
+2021-08-07 16:30:40,517  INFO [main] Baseclass:22 - Data is being entered
+2021-08-07 16:30:40,517  INFO [main] Baseclass:35 - user wants to automate with chrome browser
+2021-08-07 16:30:46,735  INFO [main] Baseclass:45 - browser is initialized
+2021-08-07 16:52:44,095  INFO [main] Baseclass:33 - initializing....
+2021-08-07 16:52:44,097  INFO [main] Baseclass:22 - Data is being entered
+2021-08-07 16:52:44,098  INFO [main] Baseclass:35 - user wants to automate with chrome browser
+2021-08-07 16:52:51,399  INFO [main] Baseclass:45 - browser is initialized
+2021-08-07 17:10:07,466  INFO [main] Baseclass:33 - initializing....
+2021-08-07 17:10:07,468  INFO [main] Baseclass:22 - Data is being entered
+2021-08-07 17:10:07,469  INFO [main] Baseclass:35 - user wants to automate with chrome browser
+2021-08-07 17:10:15,553  INFO [main] Baseclass:45 - browser is initialized
+2021-08-07 17:12:45,158  INFO [main] Baseclass:33 - initializing....
+2021-08-07 17:12:45,161  INFO [main] Baseclass:22 - Data is being entered
+2021-08-07 17:12:45,161  INFO [main] Baseclass:35 - user wants to automate with chrome browser
+2021-08-07 17:12:52,581  INFO [main] Baseclass:45 - browser is initialized
+2021-08-07 17:20:18,072  INFO [main] Baseclass:33 - initializing....
+2021-08-07 17:20:18,075  INFO [main] Baseclass:22 - Data is being entered
+2021-08-07 17:20:18,075  INFO [main] Baseclass:35 - user wants to automate with chrome browser
+2021-08-07 17:20:24,889  INFO [main] Baseclass:45 - browser is initialized
+2021-08-07 17:22:21,877  INFO [main] Baseclass:33 - initializing....
+2021-08-07 17:22:21,880  INFO [main] Baseclass:22 - Data is being entered
+2021-08-07 17:22:21,881  INFO [main] Baseclass:35 - user wants to automate with chrome browser
+2021-08-07 17:22:29,513  INFO [main] Baseclass:45 - browser is initialized
+2021-08-07 17:23:17,221  INFO [main] Baseclass:33 - initializing....
+2021-08-07 17:23:17,224  INFO [main] Baseclass:22 - Data is being entered
+2021-08-07 17:23:17,225  INFO [main] Baseclass:35 - user wants to automate with chrome browser
+2021-08-07 17:23:24,307  INFO [main] Baseclass:45 - browser is initialized
+2021-08-07 18:08:31,441  INFO [main] Baseclass:33 - initializing....
+2021-08-07 18:08:31,444  INFO [main] Baseclass:22 - Data is being entered
+2021-08-07 18:08:31,445  INFO [main] Baseclass:35 - user wants to automate with chrome browser
+2021-08-07 19:49:57,759  INFO [main] Baseclass:33 - initializing....
+2021-08-07 19:49:57,764  INFO [main] Baseclass:22 - Data is being entered
+2021-08-07 19:49:57,764  INFO [main] Baseclass:35 - user wants to automate with chrome browser
+2021-08-07 19:50:07,302  INFO [main] Baseclass:45 - browser is initialized
+2021-08-07 19:50:40,640  INFO [main] Baseclass:33 - initializing....
+2021-08-07 19:50:40,642  INFO [main] Baseclass:22 - Data is being entered
+2021-08-07 19:50:40,643  INFO [main] Baseclass:35 - user wants to automate with chrome browser
+2021-08-07 19:50:48,160  INFO [main] Baseclass:45 - browser is initialized
+2021-08-07 19:51:41,487  INFO [main] Baseclass:33 - initializing....
+2021-08-07 19:51:41,490  INFO [main] Baseclass:22 - Data is being entered
+2021-08-07 19:51:41,490  INFO [main] Baseclass:35 - user wants to automate with chrome browser
+2021-08-07 19:51:50,922  INFO [main] Baseclass:45 - browser is initialized
+2021-08-07 19:52:47,251  INFO [main] Baseclass:33 - initializing....
+2021-08-07 19:52:47,254  INFO [main] Baseclass:22 - Data is being entered
+2021-08-07 19:52:47,255  INFO [main] Baseclass:35 - user wants to automate with chrome browser
+2021-08-07 19:52:54,650  INFO [main] Baseclass:45 - browser is initialized
+2021-08-07 20:42:22,260  INFO [main] Baseclass:33 - initializing....
+2021-08-07 20:42:22,263  INFO [main] Baseclass:22 - Data is being entered
+2021-08-07 20:42:22,264  INFO [main] Baseclass:35 - user wants to automate with chrome browser
+2021-08-07 20:42:30,003  INFO [main] Baseclass:45 - browser is initialized
+2021-08-07 20:42:39,792  INFO [TestNG-tests-1] Baseclass:22 - Data is being entered
+2021-08-07 20:42:40,474  INFO [TestNG-tests-1] Baseclass:22 - Data is being entered
+2021-08-07 20:45:40,610  INFO [main] Baseclass:33 - initializing....
+2021-08-07 20:45:40,613  INFO [main] Baseclass:22 - Data is being entered
+2021-08-07 20:45:40,614  INFO [main] Baseclass:35 - user wants to automate with chrome browser
+2021-08-07 20:47:42,683  INFO [main] Baseclass:33 - initializing....
+2021-08-07 20:47:42,686  INFO [main] Baseclass:22 - Data is being entered
+2021-08-07 20:47:42,688  INFO [main] Baseclass:35 - user wants to automate with chrome browser
+2021-08-07 20:47:53,126  INFO [main] Baseclass:45 - browser is initialized
+2021-08-07 20:48:04,512  INFO [TestNG-tests-1] Baseclass:22 - Data is being entered
+2021-08-07 20:48:04,693  INFO [TestNG-tests-1] Baseclass:22 - Data is being entered
+2021-08-07 20:49:05,792  INFO [main] Baseclass:33 - initializing....
+2021-08-07 20:49:05,795  INFO [main] Baseclass:22 - Data is being entered
+2021-08-07 20:49:05,796  INFO [main] Baseclass:35 - user wants to automate with chrome browser
+2021-08-07 20:49:12,287  INFO [main] Baseclass:45 - browser is initialized
+2021-08-07 20:49:22,631  INFO [TestNG-tests-1] Baseclass:22 - Data is being entered
+2021-08-07 20:49:22,744  INFO [TestNG-tests-1] Baseclass:22 - Data is being entered
+2021-08-07 20:50:04,467  INFO [main] Baseclass:33 - initializing....
+2021-08-07 20:50:04,471  INFO [main] Baseclass:22 - Data is being entered
+2021-08-07 20:50:04,472  INFO [main] Baseclass:35 - user wants to automate with chrome browser
+2021-08-07 20:50:20,746  INFO [main] Baseclass:45 - browser is initialized
+2021-08-07 20:51:47,143  INFO [main] Baseclass:33 - initializing....
+2021-08-07 20:51:47,164  INFO [main] Baseclass:22 - Data is being entered
+2021-08-07 20:51:47,165  INFO [main] Baseclass:35 - user wants to automate with chrome browser
+2021-08-07 20:51:54,882  INFO [main] Baseclass:45 - browser is initialized
+2021-08-07 20:52:26,051  INFO [main] Baseclass:33 - initializing....
+2021-08-07 20:52:26,053  INFO [main] Baseclass:22 - Data is being entered
+2021-08-07 20:52:26,054  INFO [main] Baseclass:35 - user wants to automate with chrome browser
+2021-08-07 20:52:32,770  INFO [main] Baseclass:45 - browser is initialized
+2021-08-07 20:52:43,417  INFO [TestNG-tests-1] Baseclass:22 - Data is being entered
+2021-08-07 20:52:43,584  INFO [TestNG-tests-1] Baseclass:22 - Data is being entered
+2021-08-07 20:54:30,840  INFO [main] Baseclass:33 - initializing....
+2021-08-07 20:54:30,845  INFO [main] Baseclass:22 - Data is being entered
+2021-08-07 20:54:30,846  INFO [main] Baseclass:35 - user wants to automate with chrome browser
+2021-08-07 20:54:42,905  INFO [main] Baseclass:45 - browser is initialized
+2021-08-07 20:55:23,906  INFO [main] Baseclass:33 - initializing....
+2021-08-07 20:55:23,909  INFO [main] Baseclass:22 - Data is being entered
+2021-08-07 20:55:23,910  INFO [main] Baseclass:35 - user wants to automate with chrome browser
+2021-08-07 20:55:30,457  INFO [main] Baseclass:45 - browser is initialized
+2021-08-07 20:55:41,415  INFO [TestNG-tests-1] Baseclass:22 - Data is being entered
+2021-08-07 20:55:41,611  INFO [TestNG-tests-1] Baseclass:22 - Data is being entered
+2021-08-07 20:56:30,524  INFO [main] Baseclass:33 - initializing....
+2021-08-07 20:56:30,528  INFO [main] Baseclass:22 - Data is being entered
+2021-08-07 20:56:30,528  INFO [main] Baseclass:35 - user wants to automate with chrome browser
+2021-08-07 20:56:41,867  INFO [main] Baseclass:45 - browser is initialized
+2021-08-07 20:56:52,939  INFO [TestNG-tests-1] Baseclass:22 - Data is being entered
+2021-08-07 20:56:53,086  INFO [TestNG-tests-1] Baseclass:22 - Data is being entered
+2021-08-07 21:36:05,959  INFO [main] Baseclass:33 - initializing....
+2021-08-07 21:36:05,978  INFO [main] Baseclass:22 - Data is being entered
+2021-08-07 21:36:05,978  INFO [main] Baseclass:35 - user wants to automate with chrome browser
+2021-08-07 21:36:15,490  INFO [main] Baseclass:45 - browser is initialized
+2021-08-07 21:36:26,519  INFO [TestNG-tests-1] Baseclass:22 - Data is being entered
+2021-08-07 21:36:26,898  INFO [TestNG-tests-1] Baseclass:22 - Data is being entered
+2021-08-07 21:38:15,982  INFO [main] Baseclass:33 - initializing....
+2021-08-07 21:38:15,985  INFO [main] Baseclass:22 - Data is being entered
+2021-08-07 21:38:15,986  INFO [main] Baseclass:35 - user wants to automate with chrome browser
+2021-08-07 21:38:23,135  INFO [main] Baseclass:45 - browser is initialized
+2021-08-07 21:38:33,353  INFO [TestNG-tests-1] Baseclass:22 - Data is being entered
+2021-08-07 21:38:33,467  INFO [TestNG-tests-1] Baseclass:22 - Data is being entered
+2021-08-07 21:41:35,423  INFO [main] Baseclass:33 - initializing....
+2021-08-07 21:41:35,427  INFO [main] Baseclass:22 - Data is being entered
+2021-08-07 21:41:35,428  INFO [main] Baseclass:35 - user wants to automate with chrome browser
+2021-08-07 21:41:45,681  INFO [main] Baseclass:45 - browser is initialized
+2021-08-07 21:41:55,630  INFO [TestNG-tests-1] Baseclass:22 - Data is being entered
+2021-08-07 21:41:55,743  INFO [TestNG-tests-1] Baseclass:22 - Data is being entered
+2021-08-07 21:45:16,012  INFO [main] Baseclass:33 - initializing....
+2021-08-07 21:45:16,015  INFO [main] Baseclass:22 - Data is being entered
+2021-08-07 21:45:16,016  INFO [main] Baseclass:35 - user wants to automate with chrome browser
+2021-08-07 21:45:20,617  INFO [main] Baseclass:45 - browser is initialized
+2021-08-07 21:45:30,364  INFO [TestNG-tests-1] Baseclass:22 - Data is being entered
+2021-08-07 21:45:30,473  INFO [TestNG-tests-1] Baseclass:22 - Data is being entered
+2021-08-07 21:46:24,916  INFO [main] Baseclass:33 - initializing....
+2021-08-07 21:46:24,919  INFO [main] Baseclass:22 - Data is being entered
+2021-08-07 21:46:24,920  INFO [main] Baseclass:35 - user wants to automate with chrome browser
+2021-08-07 21:46:27,660  INFO [main] Baseclass:45 - browser is initialized
+2021-08-07 21:46:54,012  INFO [main] Baseclass:33 - initializing....
+2021-08-07 21:46:54,015  INFO [main] Baseclass:22 - Data is being entered
+2021-08-07 21:46:54,016  INFO [main] Baseclass:35 - user wants to automate with chrome browser
+2021-08-07 21:46:56,464  INFO [main] Baseclass:45 - browser is initialized
+2021-08-07 21:47:06,791  INFO [TestNG-tests-1] Baseclass:22 - Data is being entered
+2021-08-07 21:47:06,903  INFO [TestNG-tests-1] Baseclass:22 - Data is being entered
+2021-08-07 22:05:30,437  INFO [main] Baseclass:33 - initializing....
+2021-08-07 22:05:30,440  INFO [main] Baseclass:22 - Data is being entered
+2021-08-07 22:05:30,440  INFO [main] Baseclass:35 - user wants to automate with chrome browser
+2021-08-07 22:05:58,156  INFO [main] Baseclass:33 - initializing....
+2021-08-07 22:05:58,159  INFO [main] Baseclass:22 - Data is being entered
+2021-08-07 22:05:58,160  INFO [main] Baseclass:35 - user wants to automate with chrome browser
+2021-08-07 22:06:07,537  INFO [main] Baseclass:45 - browser is initialized
+2021-08-07 22:06:29,380  INFO [main] Baseclass:33 - initializing....
+2021-08-07 22:06:29,383  INFO [main] Baseclass:22 - Data is being entered
+2021-08-07 22:06:29,384  INFO [main] Baseclass:35 - user wants to automate with chrome browser
+2021-08-07 22:06:36,343  INFO [main] Baseclass:45 - browser is initialized
+2021-08-07 22:07:05,353  INFO [main] Baseclass:33 - initializing....
+2021-08-07 22:07:05,356  INFO [main] Baseclass:22 - Data is being entered
+2021-08-07 22:07:05,357  INFO [main] Baseclass:35 - user wants to automate with chrome browser
+2021-08-07 22:07:12,223  INFO [main] Baseclass:45 - browser is initialized
+2021-08-08 15:28:46,296  INFO [main] Baseclass:33 - initializing....
+2021-08-08 15:28:46,299  INFO [main] Baseclass:22 - Data is being entered
+2021-08-08 15:28:46,300  INFO [main] Baseclass:35 - user wants to automate with chrome browser
+2021-08-08 15:29:00,411  INFO [main] Baseclass:45 - browser is initialized
+2021-08-08 15:29:06,469  INFO [TestNG-tests-1] Baseclass:22 - Data is being entered
+2021-08-08 15:29:06,732  INFO [TestNG-tests-1] Baseclass:22 - Data is being entered
+2021-08-08 15:35:30,532  INFO [main] Baseclass:33 - initializing....
+2021-08-08 15:35:30,534  INFO [main] Baseclass:22 - Data is being entered
+2021-08-08 15:35:30,535  INFO [main] Baseclass:35 - user wants to automate with chrome browser
+2021-08-08 15:35:39,888  INFO [main] Baseclass:45 - browser is initialized
+2021-08-08 15:35:49,455  INFO [TestNG-tests-1] Baseclass:22 - Data is being entered
+2021-08-08 15:35:49,569  INFO [TestNG-tests-1] Baseclass:22 - Data is being entered
+2021-08-08 15:38:34,056  INFO [main] Baseclass:33 - initializing....
+2021-08-08 15:38:34,059  INFO [main] Baseclass:22 - Data is being entered
+2021-08-08 15:38:34,059  INFO [main] Baseclass:35 - user wants to automate with chrome browser
+2021-08-08 15:38:36,417  INFO [main] Baseclass:45 - browser is initialized
+2021-08-08 15:38:43,344  INFO [TestNG-tests-1] Baseclass:22 - Data is being entered
+2021-08-08 15:38:43,455  INFO [TestNG-tests-1] Baseclass:22 - Data is being entered
+2021-08-08 15:41:39,748  INFO [main] Baseclass:33 - initializing....
+2021-08-08 15:41:39,751  INFO [main] Baseclass:22 - Data is being entered
+2021-08-08 15:41:39,751  INFO [main] Baseclass:35 - user wants to automate with chrome browser
+2021-08-08 15:41:42,434  INFO [main] Baseclass:45 - browser is initialized
+2021-08-08 15:41:49,314  INFO [TestNG-tests-1] Baseclass:22 - Data is being entered
+2021-08-08 15:41:49,421  INFO [TestNG-tests-1] Baseclass:22 - Data is being entered
+2021-08-08 17:00:35,528  INFO [main] Baseclass:33 - initializing....
+2021-08-08 17:00:35,559  INFO [main] Baseclass:22 - Data is being entered
+2021-08-08 17:00:35,560  INFO [main] Baseclass:35 - user wants to automate with chrome browser
+2021-08-08 17:01:29,254  INFO [main] Baseclass:33 - initializing....
+2021-08-08 17:01:29,257  INFO [main] Baseclass:22 - Data is being entered
+2021-08-08 17:01:29,257  INFO [main] Baseclass:35 - user wants to automate with chrome browser
+2021-08-08 17:01:35,404  INFO [main] Baseclass:45 - browser is initialized
+2021-08-08 17:01:42,329  INFO [TestNG-tests-1] Baseclass:22 - Data is being entered
+2021-08-08 17:01:42,503  INFO [TestNG-tests-1] Baseclass:22 - Data is being entered
+2021-08-08 17:06:53,681  INFO [main] Baseclass:33 - initializing....
+2021-08-08 17:06:53,684  INFO [main] Baseclass:22 - Data is being entered
+2021-08-08 17:06:53,685  INFO [main] Baseclass:35 - user wants to automate with chrome browser
+2021-08-08 17:06:56,252  INFO [main] Baseclass:45 - browser is initialized
+2021-08-08 17:07:02,951  INFO [TestNG-tests-1] Baseclass:22 - Data is being entered
+2021-08-08 17:07:03,084  INFO [TestNG-tests-1] Baseclass:22 - Data is being entered
+2021-08-08 17:08:04,638  INFO [main] Baseclass:33 - initializing....
+2021-08-08 17:08:04,641  INFO [main] Baseclass:22 - Data is being entered
+2021-08-08 17:08:04,641  INFO [main] Baseclass:35 - user wants to automate with chrome browser
+2021-08-08 17:08:07,606  INFO [main] Baseclass:45 - browser is initialized
+2021-08-08 17:08:14,880  INFO [TestNG-tests-1] Baseclass:22 - Data is being entered
+2021-08-08 17:08:14,996  INFO [TestNG-tests-1] Baseclass:22 - Data is being entered
+2021-08-08 17:10:20,705  INFO [main] Baseclass:33 - initializing....
+2021-08-08 17:10:20,709  INFO [main] Baseclass:22 - Data is being entered
+2021-08-08 17:10:20,709  INFO [main] Baseclass:35 - user wants to automate with chrome browser
+2021-08-08 17:10:23,632  INFO [main] Baseclass:45 - browser is initialized
+2021-08-08 17:10:30,546  INFO [TestNG-tests-1] Baseclass:22 - Data is being entered
+2021-08-08 17:10:30,664  INFO [TestNG-tests-1] Baseclass:22 - Data is being entered
+2021-08-08 17:13:50,813  INFO [main] Baseclass:33 - initializing....
+2021-08-08 17:13:50,817  INFO [main] Baseclass:22 - Data is being entered
+2021-08-08 17:13:50,817  INFO [main] Baseclass:35 - user wants to automate with chrome browser
+2021-08-08 17:15:45,001  INFO [main] Baseclass:33 - initializing....
+2021-08-08 17:15:45,004  INFO [main] Baseclass:22 - Data is being entered
+2021-08-08 17:15:45,005  INFO [main] Baseclass:35 - user wants to automate with chrome browser
+2021-08-08 17:15:50,310  INFO [main] Baseclass:45 - browser is initialized
+2021-08-08 17:15:57,478  INFO [TestNG-tests-1] Baseclass:22 - Data is being entered
+2021-08-08 17:15:57,586  INFO [TestNG-tests-1] Baseclass:22 - Data is being entered
+2021-08-08 17:18:24,406  INFO [main] Baseclass:33 - initializing....
+2021-08-08 17:18:24,408  INFO [main] Baseclass:22 - Data is being entered
+2021-08-08 17:18:24,409  INFO [main] Baseclass:35 - user wants to automate with chrome browser
+2021-08-08 17:18:29,653  INFO [main] Baseclass:45 - browser is initialized
+2021-08-08 17:18:35,960  INFO [TestNG-tests-1] Baseclass:22 - Data is being entered
+2021-08-08 17:18:36,069  INFO [TestNG-tests-1] Baseclass:22 - Data is being entered
+2021-08-08 17:26:11,475  INFO [main] Baseclass:33 - initializing....
+2021-08-08 17:26:11,478  INFO [main] Baseclass:22 - Data is being entered
+2021-08-08 17:26:11,479  INFO [main] Baseclass:35 - user wants to automate with chrome browser
+2021-08-08 17:26:19,403  INFO [main] Baseclass:45 - browser is initialized
+2021-08-08 17:26:25,894  INFO [TestNG-tests-1] Baseclass:22 - Data is being entered
+2021-08-08 17:26:26,008  INFO [TestNG-tests-1] Baseclass:22 - Data is being entered
+2021-08-08 18:56:39,279  INFO [main] Baseclass:33 - initializing....
+2021-08-08 18:56:39,282  INFO [main] Baseclass:22 - Data is being entered
+2021-08-08 18:56:39,283  INFO [main] Baseclass:35 - user wants to automate with chrome browser
+2021-08-08 18:56:43,856  INFO [main] Baseclass:45 - browser is initialized
+2021-08-08 18:56:50,341  INFO [TestNG-tests-1] Baseclass:22 - Data is being entered
+2021-08-08 18:56:50,463  INFO [TestNG-tests-1] Baseclass:22 - Data is being entered
+2021-08-08 19:07:29,586  INFO [main] Baseclass:33 - initializing....
+2021-08-08 19:07:29,589  INFO [main] Baseclass:22 - Data is being entered
+2021-08-08 19:07:29,590  INFO [main] Baseclass:35 - user wants to automate with chrome browser
+2021-08-08 19:07:40,162  INFO [main] Baseclass:45 - browser is initialized
+2021-08-08 19:07:47,312  INFO [TestNG-tests-1] Baseclass:22 - Data is being entered
+2021-08-08 19:07:47,413  INFO [TestNG-tests-1] Baseclass:22 - Data is being entered
+2021-08-08 22:04:23,105  INFO [main] Baseclass:33 - initializing....
+2021-08-08 22:04:23,107  INFO [main] Baseclass:22 - Data is being entered
+2021-08-08 22:04:23,108  INFO [main] Baseclass:35 - user wants to automate with chrome browser
+2021-08-08 22:04:33,399  INFO [main] Baseclass:45 - browser is initialized
+2021-08-08 22:04:40,373  INFO [TestNG-tests-1] Baseclass:31 - user is verifying login link
+2021-08-08 22:04:44,314  INFO [TestNG-tests-1] Baseclass:39 - user is verifying valid login
+2021-08-08 22:04:44,315  INFO [TestNG-tests-1] Baseclass:22 - Data is being entered
+2021-08-08 22:04:44,685  INFO [TestNG-tests-1] Baseclass:22 - Data is being entered
+2021-08-08 22:05:36,931  INFO [main] Baseclass:33 - initializing....
+2021-08-08 22:05:36,933  INFO [main] Baseclass:22 - Data is being entered
+2021-08-08 22:05:36,934  INFO [main] Baseclass:35 - user wants to automate with chrome browser
+2021-08-08 22:05:39,092  INFO [main] Baseclass:45 - browser is initialized
+2021-08-08 22:05:43,308  INFO [TestNG-tests-1] Baseclass:31 - user is verifying login link
+2021-08-08 22:05:44,893  INFO [TestNG-tests-1] Baseclass:39 - user is verifying valid login
+2021-08-08 22:05:44,895  INFO [TestNG-tests-1] Baseclass:22 - Data is being entered
+2021-08-08 22:05:45,001  INFO [TestNG-tests-1] Baseclass:22 - Data is being entered
